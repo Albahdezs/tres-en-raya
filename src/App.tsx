@@ -1,4 +1,3 @@
-import React from "react";
 import { JSX, ReactNode, JSXElementConstructor, ReactElement, useState } from "react";
 
 type SquareProps = {
